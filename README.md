@@ -17,6 +17,7 @@ Numpy
 ......etc
 
 Deployed using Bootstrap
+* Running on http://127.0.0.1:5000 
 very basic one But i have given my days and nights to this kindly go and checkit out...
 For more details and Notes..you can emali me at abhishekbharadwaj845@gmail.com.
 Thankyou.
